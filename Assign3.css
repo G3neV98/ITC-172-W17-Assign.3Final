@@ -1,0 +1,27 @@
+﻿body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style:normal;
+}
+
+table tr th {
+    color:burlywood;
+    font-weight:normal;
+    border:solid 2px;
+    border-color:darkgoldenrod;
+}
+
+h1 {
+    color: mediumpurple;
+    font-style:italic;
+}
+
+p {
+    color: darkolivegreen;
+    text-align: center;
+    font-style: italic;
+    font-size: large;
+}
+
+.result {
+    color: chocolate;
+}
